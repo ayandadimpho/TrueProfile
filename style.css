@@ -1,0 +1,52 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 40px 20px;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    background-color: white;
+    color: cornflowerblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: royalblue;
+    color: white;
+}
+
+label,
+input {
+    display: block;
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+input {
+    display: block;
+    margin-bottom: 15px;
+    width: 250px;
+    padding: 10px;
+    border: 1px solid cornflowerblue;
+    border-radius: 5px;
+}
+
+form {
+    width: 270px;
+    margin: 0;
+}
+
+.submit-button {
+    display: block;
+    margin: 20px auto;
+
+}
